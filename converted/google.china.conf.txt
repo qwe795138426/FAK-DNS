@@ -3,6 +3,7 @@
 [/2mdn.net/]quic://223.5.5.5 tls://1.12.12.12
 [/admob-cn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/adservice.google.com/]quic://223.5.5.5 tls://1.12.12.12
+[/app-analytics-services.com/]quic://223.5.5.5 tls://1.12.12.12
 [/app-measurement-cn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/app-measurement.com/]quic://223.5.5.5 tls://1.12.12.12
 [/apps5.oingo.com/]quic://223.5.5.5 tls://1.12.12.12
