@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]quic://223.5.5.5 tls://1.12.12.12
 [/c.admob.com/]quic://223.5.5.5 tls://1.12.12.12
 [/c.android.clients.google.com/]quic://223.5.5.5 tls://1.12.12.12
+[/c.pki.goog/]quic://223.5.5.5 tls://1.12.12.12
 [/cache-management-prod.google.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cache.pack.google.com/]quic://223.5.5.5 tls://1.12.12.12
 [/checkin.gstatic.com/]quic://223.5.5.5 tls://1.12.12.12
