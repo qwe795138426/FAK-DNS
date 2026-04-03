@@ -6,7 +6,6 @@ tls://dns.google
 [/00.net/]quic://223.5.5.5 tls://1.12.12.12
 [/000.link/]quic://223.5.5.5 tls://1.12.12.12
 [/000000.net/]quic://223.5.5.5 tls://1.12.12.12
-[/000000.xin/]quic://223.5.5.5 tls://1.12.12.12
 [/0000001.xin/]quic://223.5.5.5 tls://1.12.12.12
 [/000001.xin/]quic://223.5.5.5 tls://1.12.12.12
 [/00000qpqp00000.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -185,6 +184,7 @@ tls://dns.google
 [/010huashi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/010jianzhan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/010lf.com/]quic://223.5.5.5 tls://1.12.12.12
+[/010p.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/010shangpu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/010time.com/]quic://223.5.5.5 tls://1.12.12.12
 [/010xiongdi.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -923,6 +923,7 @@ tls://dns.google
 [/0762uu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0763f.com/]quic://223.5.5.5 tls://1.12.12.12
 [/076650.com/]quic://223.5.5.5 tls://1.12.12.12
+[/07666.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0768000.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0769auto.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0769che.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -980,7 +981,6 @@ tls://dns.google
 [/0797122.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0797auto.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0797ayzp.com/]quic://223.5.5.5 tls://1.12.12.12
-[/0797pta.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0797rs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0797tuan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0797zz.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -1009,7 +1009,6 @@ tls://dns.google
 [/080.xin/]quic://223.5.5.5 tls://1.12.12.12
 [/0800c988e1010.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/0801.xin/]quic://223.5.5.5 tls://1.12.12.12
-[/080210.com/]quic://223.5.5.5 tls://1.12.12.12
 [/0804.org/]quic://223.5.5.5 tls://1.12.12.12
 [/080e068141ea500e.com/]quic://223.5.5.5 tls://1.12.12.12
 [/081.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -1644,7 +1643,6 @@ tls://dns.google
 [/114dns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/114dnss.com/]quic://223.5.5.5 tls://1.12.12.12
 [/114gh.com/]quic://223.5.5.5 tls://1.12.12.12
-[/114god.com/]quic://223.5.5.5 tls://1.12.12.12
 [/114guoshu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/114hyw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/114hzw.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -1687,7 +1685,6 @@ tls://dns.google
 [/115vod.com/]quic://223.5.5.5 tls://1.12.12.12
 [/115wg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/115zb.com/]quic://223.5.5.5 tls://1.12.12.12
-[/11611.org/]quic://223.5.5.5 tls://1.12.12.12
 [/1163.com/]quic://223.5.5.5 tls://1.12.12.12
 [/1166.com/]quic://223.5.5.5 tls://1.12.12.12
 [/1168.tv/]quic://223.5.5.5 tls://1.12.12.12
@@ -1948,7 +1945,6 @@ tls://dns.google
 [/128qd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/128sy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/128uu.com/]quic://223.5.5.5 tls://1.12.12.12
-[/12984.academy/]quic://223.5.5.5 tls://1.12.12.12
 [/12988.net/]quic://223.5.5.5 tls://1.12.12.12
 [/129t.com/]quic://223.5.5.5 tls://1.12.12.12
 [/12dzx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -2601,7 +2597,6 @@ tls://dns.google
 [/17toushi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/17track.net/]quic://223.5.5.5 tls://1.12.12.12
 [/17ttt.com/]quic://223.5.5.5 tls://1.12.12.12
-[/17tui.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/17tx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/17u.com/]quic://223.5.5.5 tls://1.12.12.12
 [/17u.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -3525,7 +3520,6 @@ tls://dns.google
 [/258zw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/25992.com/]quic://223.5.5.5 tls://1.12.12.12
 [/25az.com/]quic://223.5.5.5 tls://1.12.12.12
-[/25b92d0783e4a420.com/]quic://223.5.5.5 tls://1.12.12.12
 [/25dddaa6f10261.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/25dir.com/]quic://223.5.5.5 tls://1.12.12.12
 [/25dx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -4139,7 +4133,6 @@ tls://dns.google
 [/342200.com/]quic://223.5.5.5 tls://1.12.12.12
 [/342jinbo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/34347.com/]quic://223.5.5.5 tls://1.12.12.12
-[/34462.work/]quic://223.5.5.5 tls://1.12.12.12
 [/345123.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/3454.com/]quic://223.5.5.5 tls://1.12.12.12
 [/3456-1.vip/]quic://223.5.5.5 tls://1.12.12.12
@@ -4835,7 +4828,6 @@ tls://dns.google
 [/3eyes.org/]quic://223.5.5.5 tls://1.12.12.12
 [/3f20c121e6032c50.com/]quic://223.5.5.5 tls://1.12.12.12
 [/3f4155b1310311.beer/]quic://223.5.5.5 tls://1.12.12.12
-[/3f42b77c11deb5d0.com/]quic://223.5.5.5 tls://1.12.12.12
 [/3f496850f89e7809.com/]quic://223.5.5.5 tls://1.12.12.12
 [/3f5348d2ff43ee00.com/]quic://223.5.5.5 tls://1.12.12.12
 [/3f9b37df0629ada1.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -6817,7 +6809,6 @@ tls://dns.google
 [/567.org/]quic://223.5.5.5 tls://1.12.12.12
 [/567030.com/]quic://223.5.5.5 tls://1.12.12.12
 [/56711.com/]quic://223.5.5.5 tls://1.12.12.12
-[/5676.com/]quic://223.5.5.5 tls://1.12.12.12
 [/567909.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/567idc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/568.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -6978,7 +6969,6 @@ tls://dns.google
 [/58corp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/58dadi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/58daojia.com/]quic://223.5.5.5 tls://1.12.12.12
-[/58dbeb66cce61162.com/]quic://223.5.5.5 tls://1.12.12.12
 [/58demo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/58display.com/]quic://223.5.5.5 tls://1.12.12.12
 [/58dns.me/]quic://223.5.5.5 tls://1.12.12.12
@@ -7618,7 +7608,6 @@ tls://dns.google
 [/6617.com/]quic://223.5.5.5 tls://1.12.12.12
 [/66173yx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/662city.com/]quic://223.5.5.5 tls://1.12.12.12
-[/662efdc1c19ba7e7.com/]quic://223.5.5.5 tls://1.12.12.12
 [/662p.com/]quic://223.5.5.5 tls://1.12.12.12
 [/66301cc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6633488.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -7689,7 +7678,6 @@ tls://dns.google
 [/668lw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/668map.com/]quic://223.5.5.5 tls://1.12.12.12
 [/668wan.com/]quic://223.5.5.5 tls://1.12.12.12
-[/669101bfdb3238f4.com/]quic://223.5.5.5 tls://1.12.12.12
 [/66930909.com/]quic://223.5.5.5 tls://1.12.12.12
 [/669322.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6695.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -7914,7 +7902,6 @@ tls://dns.google
 [/6c0f63385ed13b89.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6c6c.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6c7ccba3e11031.beer/]quic://223.5.5.5 tls://1.12.12.12
-[/6cd6681a68d8adfd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6cit.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6cmap.com/]quic://223.5.5.5 tls://1.12.12.12
 [/6cnzz.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -8045,7 +8032,6 @@ tls://dns.google
 [/700618.com/]quic://223.5.5.5 tls://1.12.12.12
 [/70098.com/]quic://223.5.5.5 tls://1.12.12.12
 [/700chat.com/]quic://223.5.5.5 tls://1.12.12.12
-[/700kan.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/700kan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/700live.com/]quic://223.5.5.5 tls://1.12.12.12
 [/700megs.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -8517,7 +8503,6 @@ tls://dns.google
 [/7dsw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7e.hk/]quic://223.5.5.5 tls://1.12.12.12
 [/7e051eec511021.beer/]quic://223.5.5.5 tls://1.12.12.12
-[/7e0aa701c3302eb0.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7e9dba1891021.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/7east.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7ed.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -8568,7 +8553,6 @@ tls://dns.google
 [/7luohu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7lw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7mah2.com/]quic://223.5.5.5 tls://1.12.12.12
-[/7mo.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/7moor-fs1.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7moor-fs2.com/]quic://223.5.5.5 tls://1.12.12.12
 [/7moor-zx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -8778,7 +8762,6 @@ tls://dns.google
 [/81677.com/]quic://223.5.5.5 tls://1.12.12.12
 [/816798.net/]quic://223.5.5.5 tls://1.12.12.12
 [/8169.com/]quic://223.5.5.5 tls://1.12.12.12
-[/81728c36ac47b503.com/]quic://223.5.5.5 tls://1.12.12.12
 [/81730450affbad30.com/]quic://223.5.5.5 tls://1.12.12.12
 [/817398.com/]quic://223.5.5.5 tls://1.12.12.12
 [/81761.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -8974,7 +8957,6 @@ tls://dns.google
 [/86amsdy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/86bdada6e1019.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/86bus.com/]quic://223.5.5.5 tls://1.12.12.12
-[/86c1ae3ef98b7c83.com/]quic://223.5.5.5 tls://1.12.12.12
 [/86crk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/86ditu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/86dk.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -9029,7 +9011,6 @@ tls://dns.google
 [/8732365.com/]quic://223.5.5.5 tls://1.12.12.12
 [/8733777251212.icu/]quic://223.5.5.5 tls://1.12.12.12
 [/87388v.com/]quic://223.5.5.5 tls://1.12.12.12
-[/8741913426f03bc8.com/]quic://223.5.5.5 tls://1.12.12.12
 [/875296.org/]quic://223.5.5.5 tls://1.12.12.12
 [/875902.vip/]quic://223.5.5.5 tls://1.12.12.12
 [/87654321.xyz/]quic://223.5.5.5 tls://1.12.12.12
@@ -9133,7 +9114,6 @@ tls://dns.google
 [/88887777.com/]quic://223.5.5.5 tls://1.12.12.12
 [/8888800000.com/]quic://223.5.5.5 tls://1.12.12.12
 [/8889997777.com/]quic://223.5.5.5 tls://1.12.12.12
-[/888abc333abc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/888ban.com/]quic://223.5.5.5 tls://1.12.12.12
 [/888chem.com/]quic://223.5.5.5 tls://1.12.12.12
 [/888eee777eee.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -9407,7 +9387,6 @@ tls://dns.google
 [/9111.tv/]quic://223.5.5.5 tls://1.12.12.12
 [/91118.com/]quic://223.5.5.5 tls://1.12.12.12
 [/91160.com/]quic://223.5.5.5 tls://1.12.12.12
-[/911795.bid/]quic://223.5.5.5 tls://1.12.12.12
 [/911zy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/912355.com/]quic://223.5.5.5 tls://1.12.12.12
 [/912366.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -9446,7 +9425,6 @@ tls://dns.google
 [/918dxs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/918fg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/918ka.cc/]quic://223.5.5.5 tls://1.12.12.12
-[/918pll.com/]quic://223.5.5.5 tls://1.12.12.12
 [/918rc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/919.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9191mr.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -9977,7 +9955,6 @@ tls://dns.google
 [/96flw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/96hq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/96kaifa.com/]quic://223.5.5.5 tls://1.12.12.12
-[/96kb.com/]quic://223.5.5.5 tls://1.12.12.12
 [/96lh.net/]quic://223.5.5.5 tls://1.12.12.12
 [/96lou.com/]quic://223.5.5.5 tls://1.12.12.12
 [/96ni.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -10004,7 +9981,6 @@ tls://dns.google
 [/97775.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9778.com/]quic://223.5.5.5 tls://1.12.12.12
 [/977k.com/]quic://223.5.5.5 tls://1.12.12.12
-[/977pk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/977zy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/97866.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9787.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -10311,7 +10287,6 @@ tls://dns.google
 [/9damao.net/]quic://223.5.5.5 tls://1.12.12.12
 [/9day.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/9db.cc/]quic://223.5.5.5 tls://1.12.12.12
-[/9dd29.live/]quic://223.5.5.5 tls://1.12.12.12
 [/9ddm.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9de3c7ffb10291.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/9deli.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -10358,7 +10333,6 @@ tls://dns.google
 [/9host.org/]quic://223.5.5.5 tls://1.12.12.12
 [/9hou.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9huadian.net/]quic://223.5.5.5 tls://1.12.12.12
-[/9i0.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9i0i.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9icad.com/]quic://223.5.5.5 tls://1.12.12.12
 [/9icode.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -10488,7 +10462,6 @@ tls://dns.google
 [/a04d48409e40ca3f.com/]quic://223.5.5.5 tls://1.12.12.12
 [/a0598.com/]quic://223.5.5.5 tls://1.12.12.12
 [/a0770.com/]quic://223.5.5.5 tls://1.12.12.12
-[/a0807e8f6a5eadc3.com/]quic://223.5.5.5 tls://1.12.12.12
 [/a0bi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/a0c77.com/]quic://223.5.5.5 tls://1.12.12.12
 [/a0d73230f9d52dfb.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -10636,7 +10609,6 @@ tls://dns.google
 [/abatour.com/]quic://223.5.5.5 tls://1.12.12.12
 [/abbbio.com/]quic://223.5.5.5 tls://1.12.12.12
 [/abbisko.com/]quic://223.5.5.5 tls://1.12.12.12
-[/abbkine.com/]quic://223.5.5.5 tls://1.12.12.12
 [/abbooa.com/]quic://223.5.5.5 tls://1.12.12.12
 [/abbreviat.com/]quic://223.5.5.5 tls://1.12.12.12
 [/abbyschoice.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -11997,7 +11969,6 @@ tls://dns.google
 [/aitecc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aitechforsafety.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aitemall.com/]quic://223.5.5.5 tls://1.12.12.12
-[/aitemple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aiterent.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aitesu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aitetech.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -12242,7 +12213,6 @@ tls://dns.google
 [/alafy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alai.net/]quic://223.5.5.5 tls://1.12.12.12
 [/alameal.com/]quic://223.5.5.5 tls://1.12.12.12
-[/alancui.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/alanyhq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alavr.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alayanew.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -12332,7 +12302,6 @@ tls://dns.google
 [/alicall.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alicdm.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alicdn.com/]quic://223.5.5.5 tls://1.12.12.12
-[/alicdngslb.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alicloud.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alicloudapi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/alicloudccp.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -12793,7 +12762,6 @@ tls://dns.google
 [/amuletor.com/]quic://223.5.5.5 tls://1.12.12.12
 [/amuluze.com/]quic://223.5.5.5 tls://1.12.12.12
 [/amunion.com/]quic://223.5.5.5 tls://1.12.12.12
-[/amuren.com/]quic://223.5.5.5 tls://1.12.12.12
 [/amusic.shop/]quic://223.5.5.5 tls://1.12.12.12
 [/amyart360.com/]quic://223.5.5.5 tls://1.12.12.12
 [/amymx.org/]quic://223.5.5.5 tls://1.12.12.12
@@ -12923,7 +12891,6 @@ tls://dns.google
 [/anhuiaia.com/]quic://223.5.5.5 tls://1.12.12.12
 [/anhuicta.com/]quic://223.5.5.5 tls://1.12.12.12
 [/anhuigaokao.com/]quic://223.5.5.5 tls://1.12.12.12
-[/anhuigwy.org/]quic://223.5.5.5 tls://1.12.12.12
 [/anhuihr.com/]quic://223.5.5.5 tls://1.12.12.12
 [/anhuihuayun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/anhuijszp.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -13851,8 +13818,6 @@ tls://dns.google
 [/as-hitech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/as.mr/]quic://223.5.5.5 tls://1.12.12.12
 [/as01271kkp.xyz/]quic://223.5.5.5 tls://1.12.12.12
-[/as01280kkp.xyz/]quic://223.5.5.5 tls://1.12.12.12
-[/as01281kkp.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/as02010kkp.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/as16.com/]quic://223.5.5.5 tls://1.12.12.12
 [/as3f.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -13863,7 +13828,6 @@ tls://dns.google
 [/asatiles.com/]quic://223.5.5.5 tls://1.12.12.12
 [/asattitude.com/]quic://223.5.5.5 tls://1.12.12.12
 [/asbazainville.org/]quic://223.5.5.5 tls://1.12.12.12
-[/asbctv.com/]quic://223.5.5.5 tls://1.12.12.12
 [/asc-events.org/]quic://223.5.5.5 tls://1.12.12.12
 [/asc-wines.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ascend-bio.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -14407,6 +14371,7 @@ tls://dns.google
 [/awsdns-cn-14.com/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-15.net/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-16.biz/]quic://223.5.5.5 tls://1.12.12.12
+[/awsdns-cn-16.net/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-17.biz/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-17.com/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-17.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -14435,6 +14400,7 @@ tls://dns.google
 [/awsdns-cn-28.net/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-29.biz/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-31.net/]quic://223.5.5.5 tls://1.12.12.12
+[/awsdns-cn-33.biz/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-33.net/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-34.com/]quic://223.5.5.5 tls://1.12.12.12
 [/awsdns-cn-34.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -14748,7 +14714,6 @@ tls://dns.google
 [/b68f0a844eec7fff.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b6a531b371011.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/b6cc0921b1024.beer/]quic://223.5.5.5 tls://1.12.12.12
-[/b6f1ea80ff0d2c06.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b6r.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b71ea195f05f569c.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b71ef13941015.beer/]quic://223.5.5.5 tls://1.12.12.12
@@ -15120,7 +15085,6 @@ tls://dns.google
 [/baisiterzh.com/]quic://223.5.5.5 tls://1.12.12.12
 [/baisiweiting.com/]quic://223.5.5.5 tls://1.12.12.12
 [/baisu.cc/]quic://223.5.5.5 tls://1.12.12.12
-[/baisu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/baisuizhixiang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/baitahe.net/]quic://223.5.5.5 tls://1.12.12.12
 [/baitaihuge.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -16591,7 +16555,6 @@ tls://dns.google
 [/bgvalve.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bgwcsz.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bgwl.net/]quic://223.5.5.5 tls://1.12.12.12
-[/bgwxc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bgxcl.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bgxu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bgyfhh.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -17006,7 +16969,6 @@ tls://dns.google
 [/bingjun.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/binglai.net/]quic://223.5.5.5 tls://1.12.12.12
 [/binglanggu.com/]quic://223.5.5.5 tls://1.12.12.12
-[/binglanphoto.com/]quic://223.5.5.5 tls://1.12.12.12
 [/binglianhuajianzhan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bingliekeji.com/]quic://223.5.5.5 tls://1.12.12.12
 [/binglixue.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -19195,7 +19157,6 @@ tls://dns.google
 [/by6sx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/by899.com/]quic://223.5.5.5 tls://1.12.12.12
 [/byai.com/]quic://223.5.5.5 tls://1.12.12.12
-[/byair.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/bybieyang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bybily.com/]quic://223.5.5.5 tls://1.12.12.12
 [/byboai.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -19267,7 +19228,6 @@ tls://dns.google
 [/byszc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bytapp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bytcm.com/]quic://223.5.5.5 tls://1.12.12.12
-[/bytdq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/byte-dns.com/]quic://223.5.5.5 tls://1.12.12.12
 [/byte-dns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/byte-edge.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -19579,7 +19539,6 @@ tls://dns.google
 [/c7y.com/]quic://223.5.5.5 tls://1.12.12.12
 [/c835249c31017.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/c837c4e951009.beer/]quic://223.5.5.5 tls://1.12.12.12
-[/c84ba4c6025aa1ac.com/]quic://223.5.5.5 tls://1.12.12.12
 [/c88a8ae86f58a489.com/]quic://223.5.5.5 tls://1.12.12.12
 [/c8a8b0af81014.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/c9018.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -20773,7 +20732,6 @@ tls://dns.google
 [/cddq120.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cddscj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cddsgk.com/]quic://223.5.5.5 tls://1.12.12.12
-[/cddtz.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cde-os.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cdea4d2cb10261.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/cdeaa.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -20862,7 +20820,6 @@ tls://dns.google
 [/cdlsym.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cdlvbao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cdlxqn.com/]quic://223.5.5.5 tls://1.12.12.12
-[/cdmaria.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cdmcaac.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cdmddyf.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cdmfund.org/]quic://223.5.5.5 tls://1.12.12.12
@@ -21583,7 +21540,6 @@ tls://dns.google
 [/cgyu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cgzair.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cgzj.com/]quic://223.5.5.5 tls://1.12.12.12
-[/cgzxbb.org/]quic://223.5.5.5 tls://1.12.12.12
 [/cgzy.net/]quic://223.5.5.5 tls://1.12.12.12
 [/cgzyw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ch-auto.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -23567,7 +23523,6 @@ tls://dns.google
 [/chineseembassy.org/]quic://223.5.5.5 tls://1.12.12.12
 [/chinesehongker.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chinesejk.com/]quic://223.5.5.5 tls://1.12.12.12
-[/chinesejy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chineselaw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chineselighting.org/]quic://223.5.5.5 tls://1.12.12.12
 [/chinesemale.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -24900,7 +24855,6 @@ tls://dns.google
 [/cmgrasp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cmhello.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cmhijs.com/]quic://223.5.5.5 tls://1.12.12.12
-[/cmia.info/]quic://223.5.5.5 tls://1.12.12.12
 [/cmic.site/]quic://223.5.5.5 tls://1.12.12.12
 [/cmicapm.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cmidc.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -25770,7 +25724,6 @@ tls://dns.google
 [/cnsfk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cnshende.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cnshexinji.com/]quic://223.5.5.5 tls://1.12.12.12
-[/cnshippingdev.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cnshiri.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cnshjy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cnshuizu.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -26770,7 +26723,6 @@ tls://dns.google
 [/cqdpt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cqdting.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cqduoliu.com/]quic://223.5.5.5 tls://1.12.12.12
-[/cqdzw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cqe.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/cqeca.org/]quic://223.5.5.5 tls://1.12.12.12
 [/cqedo.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -28914,7 +28866,6 @@ tls://dns.google
 [/dajialawyer.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dajianet.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dajiang365.com/]quic://223.5.5.5 tls://1.12.12.12
-[/dajiangcp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dajiangsai.org/]quic://223.5.5.5 tls://1.12.12.12
 [/dajiangtai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dajianhui.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -32896,7 +32847,6 @@ tls://dns.google
 [/dytt2028.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/dytt789.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dytt7899.com/]quic://223.5.5.5 tls://1.12.12.12
-[/dytt8.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dytt8.net/]quic://223.5.5.5 tls://1.12.12.12
 [/dytt89.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dytuj6zs26.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -33417,6 +33367,7 @@ tls://dns.google
 [/ebama.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ebancom.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ebangchina.com/]quic://223.5.5.5 tls://1.12.12.12
+[/ebank96518.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ebanma.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ebanshu.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ebaodai.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -33561,7 +33512,6 @@ tls://dns.google
 [/eckwai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ecloud.hk/]quic://223.5.5.5 tls://1.12.12.12
 [/ecmc-nj.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ecmoban.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ecmould.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ecnpl.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ecnu.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -33638,7 +33588,6 @@ tls://dns.google
 [/eda-china.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eda1024.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eda2.com/]quic://223.5.5.5 tls://1.12.12.12
-[/eda225d55abd8c66.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eda365.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eda365.net/]quic://223.5.5.5 tls://1.12.12.12
 [/eda4bf686e3ac7d4.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -33811,7 +33760,6 @@ tls://dns.google
 [/eduzhai.net/]quic://223.5.5.5 tls://1.12.12.12
 [/eduzhixin.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eduzs.net/]quic://223.5.5.5 tls://1.12.12.12
-[/edvxgqx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/edwiv.com/]quic://223.5.5.5 tls://1.12.12.12
 [/edxmy.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/ee-nav.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -34185,7 +34133,6 @@ tls://dns.google
 [/elikeme.com/]quic://223.5.5.5 tls://1.12.12.12
 [/elikeme.net/]quic://223.5.5.5 tls://1.12.12.12
 [/elimautism.org/]quic://223.5.5.5 tls://1.12.12.12
-[/elinastewart.shop/]quic://223.5.5.5 tls://1.12.12.12
 [/eling.me/]quic://223.5.5.5 tls://1.12.12.12
 [/elingka.com/]quic://223.5.5.5 tls://1.12.12.12
 [/elingyun.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -34733,7 +34680,6 @@ tls://dns.google
 [/esgforum.com/]quic://223.5.5.5 tls://1.12.12.12
 [/esgz.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eshangle.com/]quic://223.5.5.5 tls://1.12.12.12
-[/eshare.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/esheep.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eshenlin.com/]quic://223.5.5.5 tls://1.12.12.12
 [/eshimin.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -35412,7 +35358,6 @@ tls://dns.google
 [/f54321.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f54c463ad528b39a.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f567c912a077aacc.com/]quic://223.5.5.5 tls://1.12.12.12
-[/f56de4830d9cc45a.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f5cs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f5ec7553b5ec6ea3.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f5fa5ff8ef7379ba.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -35432,7 +35377,6 @@ tls://dns.google
 [/f7yuncdn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f800909401015.beer/]quic://223.5.5.5 tls://1.12.12.12
 [/f8167007e7bf667d.com/]quic://223.5.5.5 tls://1.12.12.12
-[/f8acf758609ac81f.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f8fm.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f92ec0629f52f064.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f94fa469f5680337.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -36175,7 +36119,6 @@ tls://dns.google
 [/feifanindustry.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifantxt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifantxt.net/]quic://223.5.5.5 tls://1.12.12.12
-[/feifanwangg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifdx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifei.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifeiboke.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -36623,6 +36566,7 @@ tls://dns.google
 [/fhtj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fhtlw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fhtre.com/]quic://223.5.5.5 tls://1.12.12.12
+[/fhvalley.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fhwlgs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fhwzx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fhycedu.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -37572,6 +37516,7 @@ tls://dns.google
 [/freekaoyan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/freelycode.com/]quic://223.5.5.5 tls://1.12.12.12
 [/freelynb.com/]quic://223.5.5.5 tls://1.12.12.12
+[/freelynet.cloud/]quic://223.5.5.5 tls://1.12.12.12
 [/freelynet.com/]quic://223.5.5.5 tls://1.12.12.12
 [/freemancn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/freemindworld.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -41361,7 +41306,6 @@ tls://dns.google
 [/grender.com/]quic://223.5.5.5 tls://1.12.12.12
 [/greplay.com/]quic://223.5.5.5 tls://1.12.12.12
 [/grescw.com/]quic://223.5.5.5 tls://1.12.12.12
-[/gretaith.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gretf.com/]quic://223.5.5.5 tls://1.12.12.12
 [/greyli.com/]quic://223.5.5.5 tls://1.12.12.12
 [/greywolfcdn.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -41937,7 +41881,6 @@ tls://dns.google
 [/guguyun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/guguyuyin.com/]quic://223.5.5.5 tls://1.12.12.12
 [/guguzhu.com/]quic://223.5.5.5 tls://1.12.12.12
-[/guhai66.com/]quic://223.5.5.5 tls://1.12.12.12
 [/guhantai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/guhei.net/]quic://223.5.5.5 tls://1.12.12.12
 [/guheshuyuan.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -44027,7 +43970,6 @@ tls://dns.google
 [/gxyhgcjcxxw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gxyhjgjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gxyhjt.com/]quic://223.5.5.5 tls://1.12.12.12
-[/gxyhkaolin.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gxyhmy.net/]quic://223.5.5.5 tls://1.12.12.12
 [/gxyhtz.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gxyhxx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -45259,7 +45201,6 @@ tls://dns.google
 [/haimaoji.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haimawan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haimeec.com/]quic://223.5.5.5 tls://1.12.12.12
-[/haimeng01.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haimi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haimian.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haimin.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -45810,7 +45751,6 @@ tls://dns.google
 [/haohanpower.tech/]quic://223.5.5.5 tls://1.12.12.12
 [/haohanstar.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haohao8888.com/]quic://223.5.5.5 tls://1.12.12.12
-[/haohaotuan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haohaowan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haohaoxiuche.com/]quic://223.5.5.5 tls://1.12.12.12
 [/haohaoxz.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -46728,7 +46668,6 @@ tls://dns.google
 [/hczfgjj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hczl.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hczm1.com/]quic://223.5.5.5 tls://1.12.12.12
-[/hczm2.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hczq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hczr.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hczs.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -47073,7 +47012,6 @@ tls://dns.google
 [/heilifun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/heilongjianggames.com/]quic://223.5.5.5 tls://1.12.12.12
 [/heiluo.com/]quic://223.5.5.5 tls://1.12.12.12
-[/heima.com/]quic://223.5.5.5 tls://1.12.12.12
 [/heima010.com/]quic://223.5.5.5 tls://1.12.12.12
 [/heima8.com/]quic://223.5.5.5 tls://1.12.12.12
 [/heimabao.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -48706,7 +48644,6 @@ tls://dns.google
 [/hnmangshan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hnmcymy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hnmdtv.com/]quic://223.5.5.5 tls://1.12.12.12
-[/hnmfbw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hnmgjr.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hnming.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hnmjyy.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -52134,7 +52071,6 @@ tls://dns.google
 [/hztuoliang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hztvmg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hztx.com/]quic://223.5.5.5 tls://1.12.12.12
-[/hztygd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hztzkj.net/]quic://223.5.5.5 tls://1.12.12.12
 [/hzvillas.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hzvtc.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -52451,6 +52387,7 @@ tls://dns.google
 [/ibczy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ibdxigualive.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ibdxiguavod.com/]quic://223.5.5.5 tls://1.12.12.12
+[/ibee360.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ibeidiao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ibeifeng.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ibeiig.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -54576,7 +54513,6 @@ tls://dns.google
 [/ishanjian.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ishansong.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ishaohuang.com/]quic://223.5.5.5 tls://1.12.12.12
-[/isharebest.com/]quic://223.5.5.5 tls://1.12.12.12
 [/isharepc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/isheely.com/]quic://223.5.5.5 tls://1.12.12.12
 [/isheji.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -55491,7 +55427,6 @@ tls://dns.google
 [/jchunuo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jchxmc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jcjjwx.com/]quic://223.5.5.5 tls://1.12.12.12
-[/jcjmhj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jckjsc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jcku.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jclab.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -58355,7 +58290,6 @@ tls://dns.google
 [/jpcec.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jpchinapress.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jpcoalboss.com/]quic://223.5.5.5 tls://1.12.12.12
-[/jpcq666666.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jpddc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jpedo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jpeen.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -61653,7 +61587,6 @@ tls://dns.google
 [/konlan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/konotaku.com/]quic://223.5.5.5 tls://1.12.12.12
 [/kooaoo.com/]quic://223.5.5.5 tls://1.12.12.12
-[/koobai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/koobeemobile.com/]quic://223.5.5.5 tls://1.12.12.12
 [/koobone.com/]quic://223.5.5.5 tls://1.12.12.12
 [/koocdn.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -61855,7 +61788,6 @@ tls://dns.google
 [/kshwtj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ksjgs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ksjhaoka.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ksjhp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ksjxgs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/kskwai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/kslccb.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -61939,7 +61871,6 @@ tls://dns.google
 [/ktcomposite.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ktctjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ktcupdate.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ktfdsb.com/]quic://223.5.5.5 tls://1.12.12.12
 [/kting.info/]quic://223.5.5.5 tls://1.12.12.12
 [/ktkt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ktlshu.vip/]quic://223.5.5.5 tls://1.12.12.12
@@ -64752,7 +64683,6 @@ tls://dns.google
 [/linkheer.com/]quic://223.5.5.5 tls://1.12.12.12
 [/linkiebuy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/linkingcloud.com/]quic://223.5.5.5 tls://1.12.12.12
-[/linkingme.com/]quic://223.5.5.5 tls://1.12.12.12
 [/linkist.net/]quic://223.5.5.5 tls://1.12.12.12
 [/linknewideas.com/]quic://223.5.5.5 tls://1.12.12.12
 [/linkoing.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -64972,7 +64902,6 @@ tls://dns.google
 [/litongsupply.com/]quic://223.5.5.5 tls://1.12.12.12
 [/litongtech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/litosim.com/]quic://223.5.5.5 tls://1.12.12.12
-[/litpo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/litree.com/]quic://223.5.5.5 tls://1.12.12.12
 [/litten.me/]quic://223.5.5.5 tls://1.12.12.12
 [/little-star.love/]quic://223.5.5.5 tls://1.12.12.12
@@ -65094,7 +65023,6 @@ tls://dns.google
 [/liuxuegang.site/]quic://223.5.5.5 tls://1.12.12.12
 [/liuxuehr.com/]quic://223.5.5.5 tls://1.12.12.12
 [/liuxuekw.com/]quic://223.5.5.5 tls://1.12.12.12
-[/liuxueshijie.com/]quic://223.5.5.5 tls://1.12.12.12
 [/liuxuesmd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/liuxuetown.com/]quic://223.5.5.5 tls://1.12.12.12
 [/liuxuewind.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -65271,7 +65199,6 @@ tls://dns.google
 [/ljjlb.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ljjq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ljjyjt.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ljjyw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ljk.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/ljkangyang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ljlcd.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -65315,7 +65242,6 @@ tls://dns.google
 [/lkgshq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lkhaowu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lkjujm.com/]quic://223.5.5.5 tls://1.12.12.12
-[/lkkbrand.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lkkcdn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lkkdesign.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lkker.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -65401,7 +65327,6 @@ tls://dns.google
 [/lmanucell.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lmbct.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lmbest.com/]quic://223.5.5.5 tls://1.12.12.12
-[/lmdk01.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lmdouble.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lmengcity.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lmjtgs.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -65478,7 +65403,6 @@ tls://dns.google
 [/lnkdjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lnlawyers.net/]quic://223.5.5.5 tls://1.12.12.12
 [/lnlc2.net/]quic://223.5.5.5 tls://1.12.12.12
-[/lnlc3.net/]quic://223.5.5.5 tls://1.12.12.12
 [/lnldsw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lnlon-zdh.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lnlotto.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -65662,7 +65586,6 @@ tls://dns.google
 [/longde.com/]quic://223.5.5.5 tls://1.12.12.12
 [/longdear.com/]quic://223.5.5.5 tls://1.12.12.12
 [/longdear.net/]quic://223.5.5.5 tls://1.12.12.12
-[/longdezhu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/longdian.com/]quic://223.5.5.5 tls://1.12.12.12
 [/longdiandianli.com/]quic://223.5.5.5 tls://1.12.12.12
 [/longduwang.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -66347,7 +66270,6 @@ tls://dns.google
 [/lundao.pub/]quic://223.5.5.5 tls://1.12.12.12
 [/luneng.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lungai.com/]quic://223.5.5.5 tls://1.12.12.12
-[/lunhuaxiei.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lunkuokeji.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lunlunapp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lunwengo.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -66925,7 +66847,6 @@ tls://dns.google
 [/lyxyxx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lyy99.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lyyapp.com/]quic://223.5.5.5 tls://1.12.12.12
-[/lyyfny.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lyyg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lyyzedu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/lyz810.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -67540,7 +67461,6 @@ tls://dns.google
 [/malaysia-mdac.com/]quic://223.5.5.5 tls://1.12.12.12
 [/maldiveszh.com/]quic://223.5.5.5 tls://1.12.12.12
 [/maldun.com/]quic://223.5.5.5 tls://1.12.12.12
-[/malei.net/]quic://223.5.5.5 tls://1.12.12.12
 [/males120.com/]quic://223.5.5.5 tls://1.12.12.12
 [/malifenlawyer.com/]quic://223.5.5.5 tls://1.12.12.12
 [/malifuke.org/]quic://223.5.5.5 tls://1.12.12.12
@@ -68737,6 +68657,7 @@ tls://dns.google
 [/mengyou.org/]quic://223.5.5.5 tls://1.12.12.12
 [/mengzhou.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mengzhuangxiu.com/]quic://223.5.5.5 tls://1.12.12.12
+[/mengziyuan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mengzuji.com/]quic://223.5.5.5 tls://1.12.12.12
 [/menhu.io/]quic://223.5.5.5 tls://1.12.12.12
 [/menksoft.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -69791,7 +69712,6 @@ tls://dns.google
 [/mlnk.me/]quic://223.5.5.5 tls://1.12.12.12
 [/mlnsoft.net/]quic://223.5.5.5 tls://1.12.12.12
 [/mlocso.com/]quic://223.5.5.5 tls://1.12.12.12
-[/mlog.club/]quic://223.5.5.5 tls://1.12.12.12
 [/mlogcn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mlpzes05.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mlqdpdgf.sbs/]quic://223.5.5.5 tls://1.12.12.12
@@ -70812,7 +70732,6 @@ tls://dns.google
 [/muwaifanzhiliao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/muwenxi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mux5.com/]quic://223.5.5.5 tls://1.12.12.12
-[/muxia.fun/]quic://223.5.5.5 tls://1.12.12.12
 [/muxin.fun/]quic://223.5.5.5 tls://1.12.12.12
 [/muxiulin.com/]quic://223.5.5.5 tls://1.12.12.12
 [/muyangkuaibao.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -71227,7 +71146,6 @@ tls://dns.google
 [/myreadme.com/]quic://223.5.5.5 tls://1.12.12.12
 [/myrice.com/]quic://223.5.5.5 tls://1.12.12.12
 [/myrightone.com/]quic://223.5.5.5 tls://1.12.12.12
-[/myroome.com/]quic://223.5.5.5 tls://1.12.12.12
 [/myrqjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/myrtb.net/]quic://223.5.5.5 tls://1.12.12.12
 [/myrtx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -71267,6 +71185,7 @@ tls://dns.google
 [/mysupa.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mysuperdns.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mysvw.com/]quic://223.5.5.5 tls://1.12.12.12
+[/mysybt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/myt126.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mytaizhou.net/]quic://223.5.5.5 tls://1.12.12.12
 [/mytanwan.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -72707,7 +72626,6 @@ tls://dns.google
 [/niutk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/niutoushe.com/]quic://223.5.5.5 tls://1.12.12.12
 [/niutrans.com/]quic://223.5.5.5 tls://1.12.12.12
-[/niuwatch.com/]quic://223.5.5.5 tls://1.12.12.12
 [/niuwk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/niuxgame77.com/]quic://223.5.5.5 tls://1.12.12.12
 [/niuxiaoer.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -73909,7 +73827,6 @@ tls://dns.google
 [/npmtrend.com/]quic://223.5.5.5 tls://1.12.12.12
 [/npoall.com/]quic://223.5.5.5 tls://1.12.12.12
 [/npodevelopment.org/]quic://223.5.5.5 tls://1.12.12.12
-[/npoll.net/]quic://223.5.5.5 tls://1.12.12.12
 [/npp-battery.com/]quic://223.5.5.5 tls://1.12.12.12
 [/npp.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/npqx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -73936,7 +73853,6 @@ tls://dns.google
 [/nrbbearing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nrdzqwd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nrec.com/]quic://223.5.5.5 tls://1.12.12.12
-[/nrenba.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nri-beijing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nrisc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nrmchina.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -74013,6 +73929,7 @@ tls://dns.google
 [/nswscp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nswyun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nswzs.com/]quic://223.5.5.5 tls://1.12.12.12
+[/nsxdns.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nsxww.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nsydt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nsyhwakrkq2.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -74198,7 +74115,6 @@ tls://dns.google
 [/nvcong.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nvgate16.nvidia.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nvhaiz.com/]quic://223.5.5.5 tls://1.12.12.12
-[/nvhuangmm.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nvidia-china.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nvkan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/nvpuse.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -74343,7 +74259,6 @@ tls://dns.google
 [/o-netcom.com/]quic://223.5.5.5 tls://1.12.12.12
 [/o-star.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/o0-2.com/]quic://223.5.5.5 tls://1.12.12.12
-[/o02220aokk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/o02231aokk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/o02251aokk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/o02260aokk.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -75514,7 +75429,6 @@ tls://dns.google
 [/ox11.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oxbridgedu.org/]quic://223.5.5.5 tls://1.12.12.12
 [/oxerr.net/]quic://223.5.5.5 tls://1.12.12.12
-[/oxfordtdr.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oxiang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oxiaohua.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oxiranchem.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -75524,7 +75438,6 @@ tls://dns.google
 [/oya365.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oyalee.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oyewifi.com/]quic://223.5.5.5 tls://1.12.12.12
-[/oygnqmj.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/oym56lm.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oyohyee.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oyonyou.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -77572,7 +77485,6 @@ tls://dns.google
 [/projector-jl.com/]quic://223.5.5.5 tls://1.12.12.12
 [/projector-window.com/]quic://223.5.5.5 tls://1.12.12.12
 [/projectserval.com/]quic://223.5.5.5 tls://1.12.12.12
-[/projektenergetika.com/]quic://223.5.5.5 tls://1.12.12.12
 [/proleantech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/prolog-int.com/]quic://223.5.5.5 tls://1.12.12.12
 [/prolto.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -77876,7 +77788,6 @@ tls://dns.google
 [/pv001.net/]quic://223.5.5.5 tls://1.12.12.12
 [/pv138.com/]quic://223.5.5.5 tls://1.12.12.12
 [/pv265.com/]quic://223.5.5.5 tls://1.12.12.12
-[/pv4b.com/]quic://223.5.5.5 tls://1.12.12.12
 [/pvc-diban.net/]quic://223.5.5.5 tls://1.12.12.12
 [/pvc123.com/]quic://223.5.5.5 tls://1.12.12.12
 [/pvpin.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -78636,6 +78547,7 @@ tls://dns.google
 [/qiankungroup.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiankunshopping.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiankunxin.com/]quic://223.5.5.5 tls://1.12.12.12
+[/qianlai778.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qianlaiye.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qianlht.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qianliao.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -79393,7 +79305,6 @@ tls://dns.google
 [/qiyoutuo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiyouwang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiyouworld.com/]quic://223.5.5.5 tls://1.12.12.12
-[/qiyqh.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiytech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiyu-lighting.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qiyu99.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -80582,7 +80493,6 @@ tls://dns.google
 [/qxiu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qxjeff.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qxka.com/]quic://223.5.5.5 tls://1.12.12.12
-[/qxkjjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qxkp.net/]quic://223.5.5.5 tls://1.12.12.12
 [/qxlib.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qxllq.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -80702,7 +80612,6 @@ tls://dns.google
 [/qyxa-tencentclb.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qyxa-tencentclb.net/]quic://223.5.5.5 tls://1.12.12.12
 [/qyxa-tencentclb.work/]quic://223.5.5.5 tls://1.12.12.12
-[/qyxby.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qyxxpd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qyxzfw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qyyt.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -82269,7 +82178,6 @@ tls://dns.google
 [/ruanwenshijie.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ruanx.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ruanyuan.net/]quic://223.5.5.5 tls://1.12.12.12
-[/ruanyuwang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ruazi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/rubaoo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/rubbervalley.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -82936,7 +82844,6 @@ tls://dns.google
 [/saniwaveltd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sanjiahospital.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sanjiang.com/]quic://223.5.5.5 tls://1.12.12.12
-[/sanjiang88.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sanjiangdai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sanjiangtourism.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sanjiasoft.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -83401,6 +83308,7 @@ tls://dns.google
 [/scgxhq.com/]quic://223.5.5.5 tls://1.12.12.12
 [/scgxlc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/scgyjt.com/]quic://223.5.5.5 tls://1.12.12.12
+[/scgzyun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sch-szu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/schbrain.com/]quic://223.5.5.5 tls://1.12.12.12
 [/schbrilliant.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -83494,6 +83402,7 @@ tls://dns.google
 [/scjz-led.com/]quic://223.5.5.5 tls://1.12.12.12
 [/scjzjyjc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/scjzy.net/]quic://223.5.5.5 tls://1.12.12.12
+[/sckje.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sckrskj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sckxjd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/scl-cn.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -83811,7 +83720,6 @@ tls://dns.google
 [/sdglobaltrade.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdglql.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdgmjiaoyun.com/]quic://223.5.5.5 tls://1.12.12.12
-[/sdgou.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/sdgren.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdgsgcjsjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdgsjc.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -84128,6 +84036,7 @@ tls://dns.google
 [/sdxjnrqjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdxjpc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdxl.com/]quic://223.5.5.5 tls://1.12.12.12
+[/sdxli.win/]quic://223.5.5.5 tls://1.12.12.12
 [/sdxlkjgf.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdxnetcafe.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sdxsgas.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -84320,7 +84229,6 @@ tls://dns.google
 [/seekhill.com/]quic://223.5.5.5 tls://1.12.12.12
 [/seekingsoft.com/]quic://223.5.5.5 tls://1.12.12.12
 [/seeklane.com/]quic://223.5.5.5 tls://1.12.12.12
-[/seekonly.net/]quic://223.5.5.5 tls://1.12.12.12
 [/seekswan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/seekwavetech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/seelvyou.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -85233,7 +85141,6 @@ tls://dns.google
 [/shaoerwushu.org/]quic://223.5.5.5 tls://1.12.12.12
 [/shaogefenhao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shaogood.com/]quic://223.5.5.5 tls://1.12.12.12
-[/shaoit.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shaojiu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shaoke.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shaolinjingwu.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -85828,7 +85735,6 @@ tls://dns.google
 [/shicai.biz/]quic://223.5.5.5 tls://1.12.12.12
 [/shicaidai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shicaizhanlan.com/]quic://223.5.5.5 tls://1.12.12.12
-[/shicaotangchina.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shicehao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shichangbu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shichengbao.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -85880,7 +85786,6 @@ tls://dns.google
 [/shihua-group.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shihuantong.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shihuishuo.com/]quic://223.5.5.5 tls://1.12.12.12
-[/shij001.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shijiala.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shijian.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/shijian.org/]quic://223.5.5.5 tls://1.12.12.12
@@ -86188,6 +86093,7 @@ tls://dns.google
 [/shlhbxg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shliafvzc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shliangshi.com/]quic://223.5.5.5 tls://1.12.12.12
+[/shlianlu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shlingang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shlinjiang.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shlitc.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -87709,7 +87615,6 @@ tls://dns.google
 [/sjmeigao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sjmp3.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sjmwsw.com/]quic://223.5.5.5 tls://1.12.12.12
-[/sjmxx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sjono.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sjooo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sjpif.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -87986,7 +87891,6 @@ tls://dns.google
 [/slgegc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/slhwyy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/slicejobs.com/]quic://223.5.5.5 tls://1.12.12.12
-[/slicercn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/slidestalk.com/]quic://223.5.5.5 tls://1.12.12.12
 [/slingbearings.com/]quic://223.5.5.5 tls://1.12.12.12
 [/slink8.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -88616,7 +88520,6 @@ tls://dns.google
 [/somsds.com/]quic://223.5.5.5 tls://1.12.12.12
 [/sonbest.com/]quic://223.5.5.5 tls://1.12.12.12
 [/soncci.com/]quic://223.5.5.5 tls://1.12.12.12
-[/sonerovet.com/]quic://223.5.5.5 tls://1.12.12.12
 [/song001.com/]quic://223.5.5.5 tls://1.12.12.12
 [/songcn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/songcwh.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -88867,7 +88770,6 @@ tls://dns.google
 [/southsurvey.com/]quic://223.5.5.5 tls://1.12.12.12
 [/southyule.com/]quic://223.5.5.5 tls://1.12.12.12
 [/soutiyun.com/]quic://223.5.5.5 tls://1.12.12.12
-[/soutu123.com/]quic://223.5.5.5 tls://1.12.12.12
 [/soutudi.so/]quic://223.5.5.5 tls://1.12.12.12
 [/soutushenqi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/souvi.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -93166,7 +93068,6 @@ tls://dns.google
 [/tengdawl.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tengdazuche.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tengen.com/]quic://223.5.5.5 tls://1.12.12.12
-[/tengfang.net/]quic://223.5.5.5 tls://1.12.12.12
 [/tengfangyun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tengfeidn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tengfeijob.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -94038,7 +93939,6 @@ tls://dns.google
 [/time-weekly.com/]quic://223.5.5.5 tls://1.12.12.12
 [/time-year.com/]quic://223.5.5.5 tls://1.12.12.12
 [/time.izatcloud.net/]quic://223.5.5.5 tls://1.12.12.12
-[/timecloud.us/]quic://223.5.5.5 tls://1.12.12.12
 [/timecoo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/timedg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/timedl.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -94352,7 +94252,6 @@ tls://dns.google
 [/tk-life.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tk-rays.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tk-xiong.com/]quic://223.5.5.5 tls://1.12.12.12
-[/tk-zx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tk.anythinktech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tk163.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tk233.xyz/]quic://223.5.5.5 tls://1.12.12.12
@@ -96298,6 +96197,7 @@ tls://dns.google
 [/tygameworld.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tygckj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tyh120.com/]quic://223.5.5.5 tls://1.12.12.12
+[/tyhjrbl.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tyhjzx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tyi365.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tyihome.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -96925,7 +96825,6 @@ tls://dns.google
 [/una-ad.com/]quic://223.5.5.5 tls://1.12.12.12
 [/una-campaign.com/]quic://223.5.5.5 tls://1.12.12.12
 [/unachina.org/]quic://223.5.5.5 tls://1.12.12.12
-[/unafeed.com/]quic://223.5.5.5 tls://1.12.12.12
 [/unaming.info/]quic://223.5.5.5 tls://1.12.12.12
 [/unbank.info/]quic://223.5.5.5 tls://1.12.12.12
 [/uncbd.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -97140,7 +97039,6 @@ tls://dns.google
 [/upchinapro.com/]quic://223.5.5.5 tls://1.12.12.12
 [/upchinaproduct.com/]quic://223.5.5.5 tls://1.12.12.12
 [/upd.kaspersky.com/]quic://223.5.5.5 tls://1.12.12.12
-[/update-activity-lock.com/]quic://223.5.5.5 tls://1.12.12.12
 [/update1.cyou/]quic://223.5.5.5 tls://1.12.12.12
 [/update2.cyou/]quic://223.5.5.5 tls://1.12.12.12
 [/update8.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -97542,7 +97440,6 @@ tls://dns.google
 [/v114.com/]quic://223.5.5.5 tls://1.12.12.12
 [/v15cdn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/v15i.com/]quic://223.5.5.5 tls://1.12.12.12
-[/v1h5.com/]quic://223.5.5.5 tls://1.12.12.12
 [/v1kf.com/]quic://223.5.5.5 tls://1.12.12.12
 [/v1lady.com/]quic://223.5.5.5 tls://1.12.12.12
 [/v1pin.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -97633,7 +97530,6 @@ tls://dns.google
 [/vanda.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/vandream.com/]quic://223.5.5.5 tls://1.12.12.12
 [/vanform.com/]quic://223.5.5.5 tls://1.12.12.12
-[/vanfun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/vangelinu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/vangotech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/vanguardstars.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -97984,6 +97880,7 @@ tls://dns.google
 [/videohupu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/videoincloud.com/]quic://223.5.5.5 tls://1.12.12.12
 [/videojj.com/]quic://223.5.5.5 tls://1.12.12.12
+[/videoplus.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/videotomp3.site/]quic://223.5.5.5 tls://1.12.12.12
 [/videougc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/videoxiaoyouxi.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -99530,7 +99427,6 @@ tls://dns.google
 [/wcxjs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wcxsw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wcyecs.com/]quic://223.5.5.5 tls://1.12.12.12
-[/wczydns.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wd-ljt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wdace.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wdad.cc/]quic://223.5.5.5 tls://1.12.12.12
@@ -100899,7 +100795,6 @@ tls://dns.google
 [/wholefreshposts.com/]quic://223.5.5.5 tls://1.12.12.12
 [/whongtec.com/]quic://223.5.5.5 tls://1.12.12.12
 [/whoolala.com/]quic://223.5.5.5 tls://1.12.12.12
-[/whooonline.com/]quic://223.5.5.5 tls://1.12.12.12
 [/whooyan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/whoregamer.com/]quic://223.5.5.5 tls://1.12.12.12
 [/whovii.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -103002,7 +102897,6 @@ tls://dns.google
 [/wydljx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wydns.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wyduihua.com/]quic://223.5.5.5 tls://1.12.12.12
-[/wydx88.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wyfluorine.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wyh138.com/]quic://223.5.5.5 tls://1.12.12.12
 [/wyhef.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -103240,7 +103134,6 @@ tls://dns.google
 [/x3china.com/]quic://223.5.5.5 tls://1.12.12.12
 [/x3cn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/x431.com/]quic://223.5.5.5 tls://1.12.12.12
-[/x45s1ff51v.com/]quic://223.5.5.5 tls://1.12.12.12
 [/x4dp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/x5dj.com/]quic://223.5.5.5 tls://1.12.12.12
 [/x5zs.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -105130,6 +105023,7 @@ tls://dns.google
 [/xinguodu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xingvps.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xingwajiang.com/]quic://223.5.5.5 tls://1.12.12.12
+[/xingwan001.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xingxing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xingxingbao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xingxingjizhang.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -105253,7 +105147,6 @@ tls://dns.google
 [/xinjunshi.net/]quic://223.5.5.5 tls://1.12.12.12
 [/xinjunshicn.net/]quic://223.5.5.5 tls://1.12.12.12
 [/xinke-semi.com/]quic://223.5.5.5 tls://1.12.12.12
-[/xinkenwen.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xinkuai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xinlangtupian.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xinlanshengbc.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -105796,7 +105689,6 @@ tls://dns.google
 [/xjiyou.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xjjhjt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xjjnjp.org/]quic://223.5.5.5 tls://1.12.12.12
-[/xjjpmn3104.vip/]quic://223.5.5.5 tls://1.12.12.12
 [/xjjqd154.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xjjsws.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xjjt.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -106359,7 +106251,6 @@ tls://dns.google
 [/xn--tfr181fg2az43a.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--tkr55q2oa097dyxe209c.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--tlq092au7hsi3a.com/]quic://223.5.5.5 tls://1.12.12.12
-[/xn--tlqp5nt6bb69g.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--tlqz3aj77agil76ww4ni2k.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--tqq89g2tjj5x8xs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--uis47lp2cp2g.xn--3bst00m/]quic://223.5.5.5 tls://1.12.12.12
@@ -106378,7 +106269,6 @@ tls://dns.google
 [/xn--viq463a.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--vnuqa4644aq5c0si.xn--3ds443g/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--vq3a5gj6c9i.com/]quic://223.5.5.5 tls://1.12.12.12
-[/xn--vuqz86auobw20f.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--vusu0mbusw10a.xn--czr694b/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--w9q313dfn4a.com/]quic://223.5.5.5 tls://1.12.12.12
 [/xn--w9q675dm1p7em.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -111545,7 +111435,6 @@ tls://dns.google
 [/yuanrengu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuanrenxue.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuansfer.com/]quic://223.5.5.5 tls://1.12.12.12
-[/yuanshanbx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuanshen.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuanshi-sec.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuanshichang.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -111825,6 +111714,7 @@ tls://dns.google
 [/yujpa.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yujunjie.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yujunren.com/]quic://223.5.5.5 tls://1.12.12.12
+[/yukaidi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yukaiprecision.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yukeinfo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yukeweb.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -111950,6 +111840,7 @@ tls://dns.google
 [/yuncloudauth.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuncname.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yuncode.net/]quic://223.5.5.5 tls://1.12.12.12
+[/yuncuntu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yund.tech/]quic://223.5.5.5 tls://1.12.12.12
 [/yunda56.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yundaex.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -112466,7 +112357,6 @@ tls://dns.google
 [/ywint.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ywit.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/ywjinfabag.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ywjsgc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ywkefu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ywky.org/]quic://223.5.5.5 tls://1.12.12.12
 [/ywlandport.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -113105,6 +112995,7 @@ tls://dns.google
 [/zampdsp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zamplink.net/]quic://223.5.5.5 tls://1.12.12.12
 [/zamplus.com/]quic://223.5.5.5 tls://1.12.12.12
+[/zan-live.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zanao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zanba.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zanbai.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -113297,7 +113188,6 @@ tls://dns.google
 [/zc6sigma.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zcaijing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zcand.com/]quic://223.5.5.5 tls://1.12.12.12
-[/zcapt.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/zcbearing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zcbgy.net/]quic://223.5.5.5 tls://1.12.12.12
 [/zcbm580.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -115362,7 +115252,6 @@ tls://dns.google
 [/zhuchuang.club/]quic://223.5.5.5 tls://1.12.12.12
 [/zhudai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zhudianquan.com/]quic://223.5.5.5 tls://1.12.12.12
-[/zhudiaosz.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zhufaner.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zhufangdianping.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zhufengpeixun.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -115766,7 +115655,6 @@ tls://dns.google
 [/zisea.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zisen.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zisha.com/]quic://223.5.5.5 tls://1.12.12.12
-[/zishahuyu.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zishapot.com/]quic://223.5.5.5 tls://1.12.12.12
 [/zishu.life/]quic://223.5.5.5 tls://1.12.12.12
 [/zishuo.com/]quic://223.5.5.5 tls://1.12.12.12
