@@ -32621,6 +32621,7 @@ tls://dns.google
 [/dubairen.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dubao123.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dubbing.tech/]quic://223.5.5.5 tls://1.12.12.12
+[/dubbingx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/dubbo.io/]quic://223.5.5.5 tls://1.12.12.12
 [/duble.live/]quic://223.5.5.5 tls://1.12.12.12
 [/dubola.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -69215,6 +69216,7 @@ tls://dns.google
 [/miaocode.com/]quic://223.5.5.5 tls://1.12.12.12
 [/miaodiyun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/miaodongbar.com/]quic://223.5.5.5 tls://1.12.12.12
+[/miaodongshenghuo.com/]quic://223.5.5.5 tls://1.12.12.12
 [/miaogongzi.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/miaogongzi.net/]quic://223.5.5.5 tls://1.12.12.12
 [/miaohuiyanyi.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -80246,6 +80248,7 @@ tls://dns.google
 [/quaspa.com/]quic://223.5.5.5 tls://1.12.12.12
 [/quazero.com/]quic://223.5.5.5 tls://1.12.12.12
 [/quba360.com/]quic://223.5.5.5 tls://1.12.12.12
+[/qubang.cc/]quic://223.5.5.5 tls://1.12.12.12
 [/qubaobei.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qubiankeji.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qucai.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -95650,6 +95653,7 @@ tls://dns.google
 [/tsg-online.net/]quic://223.5.5.5 tls://1.12.12.12
 [/tsggx.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tsgks.com/]quic://223.5.5.5 tls://1.12.12.12
+[/tsgyun.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tshaisen.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tshe.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tshe.me/]quic://223.5.5.5 tls://1.12.12.12
@@ -110739,6 +110743,7 @@ tls://dns.google
 [/yooek.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yoofh.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yoogene.com/]quic://223.5.5.5 tls://1.12.12.12
+[/yoohe.net/]quic://223.5.5.5 tls://1.12.12.12
 [/yoohouse.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yoojia.com/]quic://223.5.5.5 tls://1.12.12.12
 [/yoojing.com/]quic://223.5.5.5 tls://1.12.12.12
