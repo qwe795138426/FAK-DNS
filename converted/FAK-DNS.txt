@@ -12074,6 +12074,7 @@ tls://dns.google
 [/ailvxing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aim-ec.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aimaker.space/]quic://223.5.5.5 tls://1.12.12.12
+[/aimap.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aimatech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/aimatrix.ai/]quic://223.5.5.5 tls://1.12.12.12
 [/aimcx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -17734,6 +17735,7 @@ tls://dns.google
 [/bjfqy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjfriendshiphotel.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjfsali.com/]quic://223.5.5.5 tls://1.12.12.12
+[/bjftfy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjfzst.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjgas.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjgasgh.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -21633,6 +21635,7 @@ tls://dns.google
 [/cetgps.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cethik.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cetkmh.com/]quic://223.5.5.5 tls://1.12.12.12
+[/cetsteam.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cetzig.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ceultimate.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ceve-market.org/]quic://223.5.5.5 tls://1.12.12.12
@@ -35306,6 +35309,7 @@ tls://dns.google
 [/evpartner.com/]quic://223.5.5.5 tls://1.12.12.12
 [/evpowergroup.com/]quic://223.5.5.5 tls://1.12.12.12
 [/evtcn.com/]quic://223.5.5.5 tls://1.12.12.12
+[/evtrust.com/]quic://223.5.5.5 tls://1.12.12.12
 [/evyy.net/]quic://223.5.5.5 tls://1.12.12.12
 [/evzhidao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/evznl.org/]quic://223.5.5.5 tls://1.12.12.12
@@ -37258,6 +37262,7 @@ tls://dns.google
 [/fk100.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fkask.net/]quic://223.5.5.5 tls://1.12.12.12
 [/fkblog.org/]quic://223.5.5.5 tls://1.12.12.12
+[/fkbuff.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fkcaijing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fkdex.com/]quic://223.5.5.5 tls://1.12.12.12
 [/fkdmg.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -48345,6 +48350,7 @@ tls://dns.google
 [/hivictor.net/]quic://223.5.5.5 tls://1.12.12.12
 [/hiwafer.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hiwaysemi.com/]quic://223.5.5.5 tls://1.12.12.12
+[/hiwayslaw.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hiwbb.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hiwechats.com/]quic://223.5.5.5 tls://1.12.12.12
 [/hiweixiu.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -60066,6 +60072,7 @@ tls://dns.google
 [/jxxdxy.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jxxhdn.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jxxhsd.com/]quic://223.5.5.5 tls://1.12.12.12
+[/jxxinzhe.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jxxnyqc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/jxxs.net/]quic://223.5.5.5 tls://1.12.12.12
 [/jxycqy.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -93158,6 +93165,7 @@ tls://dns.google
 [/tencentcloudclub.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tencentcloudcore.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tencentcloudcr.com/]quic://223.5.5.5 tls://1.12.12.12
+[/tencentcloudcs.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tencentcloudga.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tencentcloudga001.com/]quic://223.5.5.5 tls://1.12.12.12
 [/tencentcloudga001.net/]quic://223.5.5.5 tls://1.12.12.12
