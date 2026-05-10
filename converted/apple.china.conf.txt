@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/cl1.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cl2-cn.apple.com/]quic://223.5.5.5 tls://1.12.12.12
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/cl2.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cl3-cdn.origin-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/cl3.apple.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gs-loc.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gsp10-ssl-cn.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
+[/gsp11-cn.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gsp12-cn.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gsp13-cn.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/guzzoni.smoot.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/iadsdk.apple.com/]quic://223.5.5.5 tls://1.12.12.12
-[/icloud-cdn.icloud.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
-[/icloud.cdn-apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/init-kt.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/init-p01md-lb.push-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/ml.cdn-apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/music.apple.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ocsp-lb.apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ocsp.apple.com/]quic://223.5.5.5 tls://1.12.12.12
-[/ocsp2-lb.apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/ocsp2.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oscdn.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/oscdn.origin-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/osxapps.itunes.g.aaplimg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/pancake.apple.com/]quic://223.5.5.5 tls://1.12.12.12
-[/pancake.cdn-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/pba0.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/probe.siri.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/prod-support.apple-support.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/publicassets.cdn-apple.com/]quic://223.5.5.5 tls://1.12.12.12
-[/reserve-prime.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/s.mzstatic.com/]quic://223.5.5.5 tls://1.12.12.12
 [/seed-sequoia.siri.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/seed-swallow.siri.apple.com/]quic://223.5.5.5 tls://1.12.12.12
