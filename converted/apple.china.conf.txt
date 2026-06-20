@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/itunes.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/itunesconnect.apple.com/]quic://223.5.5.5 tls://1.12.12.12
+[/mensura.cdn-apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/mesu-cdn.apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/mesu-china.apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/mesu.apple.com/]quic://223.5.5.5 tls://1.12.12.12

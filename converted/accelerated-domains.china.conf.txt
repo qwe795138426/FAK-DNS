@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/azure-wave.com/]quic://223.5.5.5 tls://1.12.12.12
 [/azure.cc/]quic://223.5.5.5 tls://1.12.12.12
+[/azureflame.cloud/]quic://223.5.5.5 tls://1.12.12.12
 [/azureflying.com/]quic://223.5.5.5 tls://1.12.12.12
 [/azuremigrate.download.prss.microsoft.com/]quic://223.5.5.5 tls://1.12.12.12
 [/azuremigratetest.download.prss.microsoft.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjatv.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjbaidianfeng.com/]quic://223.5.5.5 tls://1.12.12.12
+[/bjbaifan.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjbalb.com/]quic://223.5.5.5 tls://1.12.12.12
 [/bjbaodao.net/]quic://223.5.5.5 tls://1.12.12.12
 [/bjbb.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]quic://223.5.5.5 tls://1.12.12.12
 [/canghaiip.com/]quic://223.5.5.5 tls://1.12.12.12
 [/canghaimachine.com/]quic://223.5.5.5 tls://1.12.12.12
+[/cangjggame.com/]quic://223.5.5.5 tls://1.12.12.12
 [/canglanghospital.com/]quic://223.5.5.5 tls://1.12.12.12
 [/cangmang.xyz/]quic://223.5.5.5 tls://1.12.12.12
 [/cangoonline.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chacihai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chacuo.net/]quic://223.5.5.5 tls://1.12.12.12
+[/chadaodao.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chadianhua.net/]quic://223.5.5.5 tls://1.12.12.12
 [/chadoc.com/]quic://223.5.5.5 tls://1.12.12.12
 [/chaej.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifandesign.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifanindustry.com/]quic://223.5.5.5 tls://1.12.12.12
+[/feifanmi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifantxt.com/]quic://223.5.5.5 tls://1.12.12.12
 [/feifantxt.net/]quic://223.5.5.5 tls://1.12.12.12
 [/feifdx.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qingniantuzhai.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qingnianwang.com/]quic://223.5.5.5 tls://1.12.12.12
+[/qingning88.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qingpanduola.com/]quic://223.5.5.5 tls://1.12.12.12
 [/qingpin.vip/]quic://223.5.5.5 tls://1.12.12.12
 [/qingping.co/]quic://223.5.5.5 tls://1.12.12.12
@@ -92117,6 +92123,7 @@
 [/uniow.com/]quic://223.5.5.5 tls://1.12.12.12
 [/unipack-tech.com/]quic://223.5.5.5 tls://1.12.12.12
 [/uniproud.com/]quic://223.5.5.5 tls://1.12.12.12
+[/unisapps.com/]quic://223.5.5.5 tls://1.12.12.12
 [/uniscope.com/]quic://223.5.5.5 tls://1.12.12.12
 [/unisdigital.com/]quic://223.5.5.5 tls://1.12.12.12
 [/unisedu.com/]quic://223.5.5.5 tls://1.12.12.12
