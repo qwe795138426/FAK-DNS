@@ -13900,6 +13900,7 @@
 [/b-k-automation.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b-raymedia.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b.biz/]quic://223.5.5.5 tls://1.12.12.12
+[/b.c2r.ts.cdn.office.net/]quic://223.5.5.5 tls://1.12.12.12
 [/b01.net/]quic://223.5.5.5 tls://1.12.12.12
 [/b02f0d7f3745ba7c.com/]quic://223.5.5.5 tls://1.12.12.12
 [/b041e427810281.beer/]quic://223.5.5.5 tls://1.12.12.12
@@ -33657,6 +33658,7 @@
 [/f-insight.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f-stack.org/]quic://223.5.5.5 tls://1.12.12.12
 [/f.biz/]quic://223.5.5.5 tls://1.12.12.12
+[/f.c2r.ts.cdn.office.net/]quic://223.5.5.5 tls://1.12.12.12
 [/f.cx/]quic://223.5.5.5 tls://1.12.12.12
 [/f008.com/]quic://223.5.5.5 tls://1.12.12.12
 [/f015dfc4510292.beer/]quic://223.5.5.5 tls://1.12.12.12
@@ -81098,6 +81100,7 @@
 [/sheketiandi.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shekou.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shelive.net/]quic://223.5.5.5 tls://1.12.12.12
+[/shell.cdn.office.net/]quic://223.5.5.5 tls://1.12.12.12
 [/shellpub.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shellsec.com/]quic://223.5.5.5 tls://1.12.12.12
 [/shelter-china.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -84918,6 +84921,7 @@
 [/staticfile.org/]quic://223.5.5.5 tls://1.12.12.12
 [/statickksmg.com/]quic://223.5.5.5 tls://1.12.12.12
 [/statics.cc/]quic://223.5.5.5 tls://1.12.12.12
+[/statics.teams.cdn.office.net/]quic://223.5.5.5 tls://1.12.12.12
 [/staticsdd.com/]quic://223.5.5.5 tls://1.12.12.12
 [/staticsoe.com/]quic://223.5.5.5 tls://1.12.12.12
 [/staticsoem.com/]quic://223.5.5.5 tls://1.12.12.12
@@ -85631,6 +85635,7 @@
 [/surely.cool/]quic://223.5.5.5 tls://1.12.12.12
 [/surerp.com/]quic://223.5.5.5 tls://1.12.12.12
 [/surface.download.prss.microsoft.com/]quic://223.5.5.5 tls://1.12.12.12
+[/surface.downloads.prss.microsoft.com/]quic://223.5.5.5 tls://1.12.12.12
 [/surfacetreatmentgroup.com/]quic://223.5.5.5 tls://1.12.12.12
 [/surfacetreatmenttechnology.com/]quic://223.5.5.5 tls://1.12.12.12
 [/surfcg.com/]quic://223.5.5.5 tls://1.12.12.12
