@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gsp5-cn.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gsp85-cn-ssl.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
+[/gspe11-2-cn-ssl.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]quic://223.5.5.5 tls://1.12.12.12
 [/gspe19-2-cn-ssl.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
 [/gspe19-cn-ssl.ls.apple.com/]quic://223.5.5.5 tls://1.12.12.12
