@@ -1,0 +1,6 @@
+[/steampowered.com/]quic://223.5.5.5 tls://1.12.12.12
+[/steamcontent.com/]quic://223.5.5.5 tls://1.12.12.12
+[/steamserver.net/]quic://223.5.5.5 tls://1.12.12.12
+[/steamstatic.com/]quic://223.5.5.5 tls://1.12.12.12
+[/steamusercontent.com/]quic://223.5.5.5 tls://1.12.12.12
+[/steam-chat.com/]quic://223.5.5.5 tls://1.12.12.12
